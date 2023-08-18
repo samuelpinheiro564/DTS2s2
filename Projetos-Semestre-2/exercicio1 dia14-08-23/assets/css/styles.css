@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    background-color: #2F2E2E;
+    display: flex;
+    align-items: center;
+border-radius: 8px;
+    width: 70%;
+    height: 30vh;
+    margin: 20%;
+}
+
+#pai {
+    text-align: center;
+    width: 100%;
+}
+
+#div1 {
+    width: 100%;
+}
+
+#text1 {
+    background-color: #2F2E2E;
+ width: 70%;
+    height: 6vh;
+    border-radius: 10px;
+    color: #7A7373;
+
+}
+
+.soma {
+    background-color: #2F2E2E;
+    height: 6vh;
+    border-radius: 10px;
+    color: #7A7373;
+    width: 10%;
+}
